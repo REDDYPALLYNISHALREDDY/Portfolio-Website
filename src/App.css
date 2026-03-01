@@ -735,6 +735,9 @@ box-shadow: 0 0 18px rgba(0, 240, 255, 0.8);
   text-shadow: 0 0 10px #00f0ff;
 }
 @media (max-width: 768px) {
+  body {
+
+  }
   .navbar {
     display: flex;
     flex-wrap: wrap;
@@ -746,6 +749,11 @@ box-shadow: 0 0 18px rgba(0, 240, 255, 0.8);
     font-size: 14px;
     padding: 8px 14px;
   }
+  .hero {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
   .hero-container {
     flex-direction: column;
     align-items: center;
@@ -753,8 +761,8 @@ box-shadow: 0 0 18px rgba(0, 240, 255, 0.8);
   }
   .hero-img {
     margin-top: 30px;
-    width: 250px;
-    height: 250px;
+    width: 350px;
+    height: 350px;
   }
   .hero h1 {
     font-size: 32px;
