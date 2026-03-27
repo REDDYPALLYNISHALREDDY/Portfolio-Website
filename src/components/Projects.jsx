@@ -29,12 +29,12 @@ function Projects() {
                             <span>Express</span>
                         </div>
                         <div className="project-buttons">
-                            <a href="#" target="_blank">GitHub</a>
-                            <a href="#" target="_blank">Live Demo</a>
+                            <a href="https://github.com/REDDYPALLYNISHALREDDY/smart-project-management.git" target="_blank">GitHub</a>
+                            <a href="https://smart-project-management-hazel.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
                         </div>
                     </div>
                     <div className="glass project-card">
-                        <h2 className="project-title">PORTFOLIO WEBSITE</h2>
+                        <h2 className="project-title">PERSONAL PORTFOLIO WEBSITE</h2>
                         <p className="project-description">
                             A modern, glassmorphism-inspired portfolio website built using React and pure CSS. The site showcases my education, technical skills, and full-stack projects through a clean, responsive, and visually engaging interface. 
                             Designed with smooth animations and structured layouts, it reflects my focus on clean architecture, user experience, and scalable frontend development.
@@ -46,8 +46,8 @@ function Projects() {
                         </div>
 
                         <div className="project-buttons">
-                            <a href="#" target="_blank">GitHub</a>
-                            <a href="#" target="_blank">Live Demo</a>
+                            <a href="https://github.com/REDDYPALLYNISHALREDDY/Portfolio-Website.git" target="_blank">GitHub</a>
+                            <a href="https://portfolio-website-orcin-two-29.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
                         </div>
                     </div>
                 </div>
