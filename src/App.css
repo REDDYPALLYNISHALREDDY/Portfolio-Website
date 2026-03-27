@@ -723,7 +723,7 @@ box-shadow: 0 0 18px rgba(0, 240, 255, 0.8);
 .footer-links a:hover {
   text-shadow: 0 0 10px #00f0ff;
 }
-@media (max-width: 1000px) {
+@media (max-width: 500px) {
   .navbar {
     display: flex;
     flex-wrap: wrap;
