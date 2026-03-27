@@ -279,15 +279,6 @@ box-shadow: 0 0 18px rgba(0, 240, 255, 0.8);
     transform: rotate(360deg);
   }
 }
-@media (max-width: 900px) {
-  .hero-container {
-    flex-direction: column;
-    text-align: center;
-  }
-  .hero-right {
-    margin-top: 40px;
-  }
-}
 .section-title {
   font-size: 2.5rem;
   margin-bottom: 20px;
