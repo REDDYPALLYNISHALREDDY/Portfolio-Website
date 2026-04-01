@@ -39,7 +39,7 @@ function Contact() {
                 </p>
 
                 <div className="contact-info">
-                    <a href="mailto:nishalreddyreddypally724@gmail.com" className="contact-btn"><FaEnvelope /> Email</a>
+                    <a href="https://mailto:nishalreddyreddypally724@gmail.com" className="contact-btn"><FaEnvelope /> Email</a>
                     <a href="https://github.com/REDDYPALLYNISHALREDDY" target="_blank" className="contact-btn"><FaGithub /> GitHub</a>
                     <a href="https://www.linkedin.com/in/reddypally-nishal-reddy-8835b0370" target="_blank" className="contact-btn"><FaLinkedin /> LinkedIn</a>
                 </div>
