@@ -27,7 +27,7 @@ function Hero() {
             timeout = setTimeout(() => {
                 setText(prev => prev + roles[roleIndex][charIndex]);
                 setCharIndex(prev => prev + 1);
-            }, typingSpeed);
+            }, typingSpeed,deletingSpeed);
         } else {
             timeout = setTimeout(() => {
                 setText("");
@@ -89,7 +89,7 @@ function Hero() {
 
                 <div className="hero-right">
                     <div className="photo-wrapper">
-                        <img src="IMAGE5.jpeg"  className="hero-img" />
+                        <img src="IMAGE 1.jpeg"  className="hero-img" />
                     </div>
                 </div>
                 <div className="scroll-indicator">
