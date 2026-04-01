@@ -41,13 +41,13 @@ function Contact() {
                 <div className="contact-info">
                     <a href="mailto:nishalreddyreddypally724@gmail.com" className="contact-btn"><FaEnvelope /> Email</a>
                     <a href="https://github.com/REDDYPALLYNISHALREDDY" target="_blank" className="contact-btn"><FaGithub /> GitHub</a>
-                    <a href="https://linkedin.com/in/NISHALREDDYREDDYPALLY" target="_blank" className="contact-btn"><FaLinkedin /> LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/reddypally-nishal-reddy-8835b0370" target="_blank" className="contact-btn"><FaLinkedin /> LinkedIn</a>
                 </div>
 
                 <form ref={form} onSubmit={sendEmail} className="contact-form">
                     <input type="text" name="from_name" placeholder="Your Name" required />
                     <input type="email" name="from_email" placeholder="Your Email" required />
-                    <textarea name="message" placeholder="Your Message" rows="4" required></textarea>
+                    <textarea name="message" placeholder="Your Message" rows="10" required></textarea>
                     <button type="submit">Send Message</button>
                 </form>
             </div>
