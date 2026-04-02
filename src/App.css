@@ -738,10 +738,15 @@ box-shadow: 0 0 18px rgba(0, 240, 255, 0.8);
   .hero-statement {
     width: 100%;
     max-width: 100%;
-    padding: 0px;
+    padding: 0px 12px;
     text-align: center;
-    word-wrap: break-word;
+    line-height: 1.6;
+    word-break: normal;
     overflow-wrap: break-word;
+    white-space: normal;
+  }
+  .hero-statement br {
+    display: none;
   }
   .hero-buttons {
     flex-direction: column;
