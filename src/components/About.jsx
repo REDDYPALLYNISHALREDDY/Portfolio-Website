@@ -25,10 +25,10 @@ function About() {
 
                     <div className="about-tags">
                         <span>MERN Stack</span>
-                        <span>SQL & Database Design</span>
-                        <span>System Thinking</span>
-                        <span>Clean Architecture</span>
+                        <span>Database Design</span>
+                        <span>Creative Thinking</span>
                         <span>Problem Solving</span>
+                        <span>Clean Architecture</span>
                     </div>
                 </div>
             </div>

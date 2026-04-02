@@ -36,6 +36,11 @@ function Education() {
                             <p className="edu-sub">Hyderabad, Telangana</p>
                             <p className="edu-sub">2021 - 2023</p>
                             <span className="highlight">Marks: 923</span>
+                            <div className="course-tags">
+                                <span>Mathematics</span>
+                                <span>Physics</span>
+                                <span>Chemistry</span>
+                            </div>
                         </div>
                     </div>
 

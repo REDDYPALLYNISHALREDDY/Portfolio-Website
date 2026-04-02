@@ -77,7 +77,11 @@ function Hero() {
                         </a>
                     </div>
                     <p className="hero-statement">
-                        Crafting scalable web experiences with clean architecture and real-world impact.
+                            Crafting scalable web applications with clean architecture and real-world impact.<br/>
+                            Focused on building efficient backend systems and responsive user interfaces.<br/>
+                            Passionate about solving real-world problems through optimized solutions. <br/>
+                            Continuously learning and improving to build reliable and high-performance applications.
+                        
                     </p>
                     <div className="hero-stats">
                         <div className="stat-card">2+ Projects</div>
@@ -91,9 +95,6 @@ function Hero() {
                     <div className="photo-wrapper">
                         <img src="IMAGE 1.jpeg"  className="hero-img" />
                     </div>
-                </div>
-                <div className="scroll-indicator">
-                    <span></span>
                 </div>
             </div>
         </section>

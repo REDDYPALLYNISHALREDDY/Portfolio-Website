@@ -219,6 +219,7 @@ box-shadow: 0 0 18px rgba(0, 240, 255, 0.8);
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  white-space: nowrap;
 }
 .hero-right {
   flex: 1;
@@ -309,7 +310,7 @@ box-shadow: 0 0 18px rgba(0, 240, 255, 0.8);
   margin-top: 30px;
   display: flex;
   flex-wrap: wrap;
-  gap: 15px;
+  gap: 38px;
 }
 .about-tags span {
   padding: 8px 18px;
@@ -457,10 +458,10 @@ box-shadow: 0 0 18px rgba(0, 240, 255, 0.8);
 }
 .skills-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 30px;
   margin-top: 40px;
-  max-width: 1100px;
+  max-width: 1500px;
 }
 .skill-card {
   padding: 30px;
@@ -555,43 +556,6 @@ box-shadow: 0 0 18px rgba(0, 240, 255, 0.8);
 .stat-card:hover {
   box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
   transform: translateY(-4px);
-}
-.scroll-indicator {
-  margin-top: 60px;
-  display: flex;
-  justify-content: center;
-}
-.scroll-indicator span {
-  width: 20px;
-  height: 35px;
-  border: 2px solid #00ffff;
-  border-radius: 15px;
-  position: relative;
-}
-.scroll-indicator span::before {
-  content: "";
-  width: 4px;
-  height: 8px;
-  background: #00ffff;
-  position: absolute;
-  top: 6px;
-  left: 50%;
-  transform: translateY(-50%);
-  border-radius: 2px;
-  animation: scrollMove 2s infinite;
-}
-@keyframes scrollMove {
-  0% {
-    opacity: 1;
-    top: 6px;
-  }
-  50% {
-    opacity: 0.5;
-  }
-  100% {
-    opacity: 0;
-    top: 18px;
-  }
 }
 .btn-icon {
   font-size: 18px;

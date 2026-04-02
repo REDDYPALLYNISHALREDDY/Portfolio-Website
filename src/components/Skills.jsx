@@ -9,14 +9,14 @@ function Skills() {
 
                     <div className="skills-grid">
                         <div className="glass skill-card">
-                            <h3>Programming</h3>
+                            <h3>Programming Languages</h3>
                             <p>C</p>
                             <p>Java</p>
                             <p>Python</p>
                         </div>
 
                         <div className="glass skill-card">
-                            <h3>Web Technologies</h3>
+                            <h3>Web Development</h3>
                             <p>HTML</p>
                             <p>CSS</p>
                             <p>JavaScript</p>
@@ -25,22 +25,29 @@ function Skills() {
 
                         <div className="glass skill-card">
                             <h3>Databases</h3>
-                            <p>MySQL</p>
+                            <p>SQL (MySQL)</p>
                             <p>MongoDB</p>
                         </div>
 
                         <div className="glass skill-card">
                             <h3>Tools</h3>
                             <p>Git</p>
+                            <p>GitHub</p>
                             <p>VS Code</p>
                         </div>
 
                         <div className="glass skill-card">
                             <h3>Core Competencies</h3>
-                            <p>Data Structures</p>
+                            <p>Data Structures & Algorithms</p>
                             <p>OOP</p>
                             <p>Problem Solving</p>
                             <p>Logical Thinking</p>
+                        </div>
+
+                        <div className="glass skill-card">
+                            <h3>Core Subjects</h3>
+                            <p>Operating Systems</p>
+                            <p>Computer Networks</p>
                         </div>
                     </div>
                 </div>

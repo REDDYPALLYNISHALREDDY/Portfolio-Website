@@ -26,7 +26,7 @@ function Projects() {
                             <span>React</span>
                             <span>Node.js</span>
                             <span>MongoDB</span>
-                            <span>Express</span>
+                            <span>Express.js</span>
                         </div>
                         <div className="project-buttons">
                             <a href="https://github.com/REDDYPALLYNISHALREDDY/smart-project-management.git" target="_blank">GitHub</a>
@@ -40,7 +40,7 @@ function Projects() {
                             Designed with smooth animations and structured layouts, it reflects my focus on clean architecture, user experience, and scalable frontend development.
                         </p>
                         <div className="tech-stack">
-                            <span>React</span>
+                            <span>Vite + React</span>
                             <span>CSS</span>
                             <span>Responsive Design</span>
                         </div>

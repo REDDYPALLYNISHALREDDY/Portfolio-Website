@@ -5,6 +5,8 @@ import About from "./components/About";
 import Education from "./components/Education";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import Trainings from "./components/Trainings";
+import ExtraCurricular from "./components/ExtraCurricular";
 import Contact from "./components/Contact";
 import Divider from "./components/Divider";
 import Footer from "./components/Footer";
@@ -22,6 +24,10 @@ function App() {
       <Projects />
       <Divider />
       <Skills />
+      <Divider />
+      <Trainings />
+      <Divider />
+      <ExtraCurricular />
       <Divider />
       <Contact />
       <Divider />
