@@ -53,7 +53,7 @@ function Hero() {
 
                     <div className="hero-buttons">
                         <a
-                            href="/RESUME.pdf"
+                            href="/RESUME 1 (PHOTO).pdf"
                             download
                             className="button-primary"
                         > 
