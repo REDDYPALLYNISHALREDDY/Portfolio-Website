@@ -21,6 +21,7 @@ function Skills() {
                             <p>CSS</p>
                             <p>JavaScript</p>
                             <p>React</p>
+                            <p>Node.js (Express)</p>
                         </div>
 
                         <div className="glass skill-card">
