@@ -54,7 +54,8 @@ function Hero() {
                     <div className="hero-buttons">
                         <a
                             href="/RESUME.pdf"
-                            download
+                            target="_blank"
+                            rel="noopener noreferrer"
                             className="button-primary"
                         > <FiDownload className="btn-icon" />
                             Download Resume
