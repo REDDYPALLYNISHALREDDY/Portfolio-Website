@@ -55,6 +55,7 @@ function Hero() {
                         <a
                             href="/RESUME 1 (PHOTO).pdf"
                             download
+                            target="_blank"
                             className="button-primary"
                         > 
                             <FiDownload className="btn-icon" />
