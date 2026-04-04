@@ -711,7 +711,6 @@ box-shadow: 0 0 18px rgba(0, 240, 255, 0.8);
     margin: 0 auto;
     box-sizing: border-box;
     text-align: center;
-    overflow: hidden;
   }
   .hero-right {
     margin-top: 20px;
