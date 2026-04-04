@@ -53,7 +53,7 @@ function Hero() {
 
                     <div className="hero-buttons">
                         <a
-                            href="/RESUME 1 (PHOTO).pdf"
+                            href="/RESUME.pdf"
                             download
                             className="button-primary"
                         > <FiDownload className="btn-icon" />
