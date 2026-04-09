@@ -766,12 +766,13 @@ box-shadow: 0 0 18px rgba(0, 240, 255, 0.8);
     justify-content: center;
   }
   .hero-img {
-    width: 220px;
-    height: 220px;
+    width: 320px;
+    height: 320px;
+    margin-right: 60px;
   }
   .photo-wrapper::before {
-    width: 220px;
-    height: 220px;
+    width: 320px;
+    height: 320px;
   }
   .hero-stats {
     flex-wrap: wrap;
