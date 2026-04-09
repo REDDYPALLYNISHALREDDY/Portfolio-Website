@@ -10,7 +10,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: radial-gradient(circle at top, #0f2027, #0b0f19 60%);
+  background: radial-gradient(circle at top, #0f202700, #0b0f19 60%);
   color: white;
   overflow-x: hidden;
 }
