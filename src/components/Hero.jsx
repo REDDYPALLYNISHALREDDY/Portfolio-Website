@@ -7,6 +7,7 @@ function Hero() {
 
     const roles = [
         "Aspiring Software Developer",
+        "Java Developer",
         "MERN Stack Enthusiast",
         "Problem Solver",
         "Tech Explorer"
