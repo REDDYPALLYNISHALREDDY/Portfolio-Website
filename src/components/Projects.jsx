@@ -47,7 +47,7 @@ function Projects() {
 
                         <div className="project-buttons">
                             <a href="https://github.com/REDDYPALLYNISHALREDDY/Portfolio-Website.git" target="_blank">GitHub</a>
-                            <a href="https://portfolio-website-orcin-two-29.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+                            <a href="https://nishalreddy.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
                         </div>
                     </div>
                 </div>
