@@ -59,7 +59,16 @@ function Hero() {
                             className="button-primary"
                         > 
                             <FiDownload className="btn-icon" />
-                            Download Resume
+                            Download Resume1
+                        </a>
+
+                        <a
+                            href="/RESUME 2 (NO PHOTO).pdf"
+                            download
+                            className="button-primary"
+                        >
+                            <FiDownload className="btn-icon" />
+                            Download Resume2
                         </a>
 
                         <a
