@@ -33,23 +33,6 @@ function Projects() {
                             <a href="https://smart-project-management-hazel.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
                         </div>
                     </div>
-                    <div className="glass project-card">
-                        <h2 className="project-title">PERSONAL PORTFOLIO WEBSITE</h2>
-                        <p className="project-description">
-                            A modern, glassmorphism-inspired portfolio website built using React and pure CSS. The site showcases my education, technical skills, and full-stack projects through a clean, responsive, and visually engaging interface. 
-                            Designed with smooth animations and structured layouts, it reflects my focus on clean architecture, user experience, and scalable frontend development.
-                        </p>
-                        <div className="tech-stack">
-                            <span>Vite + React</span>
-                            <span>CSS</span>
-                            <span>Responsive Design</span>
-                        </div>
-
-                        <div className="project-buttons">
-                            <a href="https://github.com/REDDYPALLYNISHALREDDY/Portfolio-Website.git" target="_blank">GitHub</a>
-                            <a href="https://nishalreddy.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
-                        </div>
-                    </div>
                 </div>
             </div>
         </section>
