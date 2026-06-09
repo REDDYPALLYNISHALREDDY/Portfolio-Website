@@ -59,7 +59,7 @@ function Hero() {
                             className="button-primary"
                         > 
                             <FiDownload className="btn-icon" />
-                            Download Resume1
+                             Resume1
                         </a>
 
                         <a
@@ -68,7 +68,7 @@ function Hero() {
                             className="button-primary"
                         >
                             <FiDownload className="btn-icon" />
-                            Download Resume2
+                             Resume2
                         </a>
 
                         <a

@@ -10,8 +10,8 @@ function ExtraCurricular() {
                     <div className="skills-grid">
                         <div className="glass skill-card">
                             <FaCode size={30} className="accent" />
-                            <h3>Coding Contests</h3>
-                            <p>Active participant in coding contests, improving problem-solving and logical thinking.</p>
+                            <h3>Coding</h3>
+                            <p>Active participant in coding, improving problem-solving and logical thinking.</p>
                         </div>
 
                         <div className="glass skill-card">

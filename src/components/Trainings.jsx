@@ -24,13 +24,14 @@ function Trainings() {
                     </div>
 
                     <div className="glass project-card">
-                        <h2 className="project-title">Web Design Workshop</h2>
+                        <h2 className="project-title">Web Design and Development Workshop</h2>
                         <p className="project-description">
-                            Participated in web development and design workshop (Mar 2024).
+                            Participated in Web Design Workshop (Mar 2024).
                         </p>
                         <div className="tech-stack">
                             <span>HTML</span>
                             <span>CSS</span>
+                            <span>JavaScript</span>
                             <span>Web Design</span>
                         </div>
                         <div className="project-buttons">
@@ -40,7 +41,7 @@ function Trainings() {
                     </div>
 
                     <div className="glass project-card">
-                        <h2 className="project-title">Hackathon Participation</h2>
+                        <h2 className="project-title">Hackathon Participant</h2>
                         <p className="project-description">
                             Participated in a hackathon event (Feb 2024) gaining real-time problem-solving experience.
                         </p>
@@ -55,14 +56,13 @@ function Trainings() {
                     </div>
 
                     <div className="glass project-card">
-                        <h2 className="project-title">C and Java Course Completion</h2>
+                        <h2 className="project-title">C and Java Programming Course</h2>
                         <p className="project-description">
                             Successfully completed foundational programming courses in C and Java (Jun 2023 - Aug 2023).
                         </p>
                         <div className="tech-stack">
                             <span>C</span>
                             <span>Java</span>
-                            <span>Programming</span>
                         </div>
                         <div className="project-buttons">
                             <a href="https://drive.google.com/file/d/1TuDLNcybJpuAdNdMDc6hPkJtDgNozkWn/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"><FaExternalLinkAlt /> View Certificate</a>
