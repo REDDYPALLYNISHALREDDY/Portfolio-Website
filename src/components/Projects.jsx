@@ -25,8 +25,8 @@ function Projects() {
                         <div className="tech-stack">
                             <span>React</span>
                             <span>Node.js</span>
-                            <span>MongoDB</span>
                             <span>Express.js</span>
+                            <span>MongoDB</span>
                         </div>
                         <div className="project-buttons">
                             <a href="https://github.com/REDDYPALLYNISHALREDDY/smart-project-management.git" target="_blank">GitHub</a>
