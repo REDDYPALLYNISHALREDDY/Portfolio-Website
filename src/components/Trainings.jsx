@@ -18,7 +18,7 @@ function Trainings() {
                             <span>Communication</span>
                         </div>
                         <div className="project-buttons">
-                            <a href="https://drive.google.com/file/d/1RZOrSGPrtCALRBMBZYsP6Gqv0gl7fzkl/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"><FaExternalLinkAlt /> View Certificate</a>
+                            <a href="https://drive.google.com/file/d/1gR-EczYsBQx39PCqGZwACyy-Umc3JpnX/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"><FaExternalLinkAlt /> View Certificate</a>
                             <a href="/CERTIFICATE 1.jpg" download><FaDownload /> Download</a>
                         </div>
                     </div>
@@ -35,7 +35,7 @@ function Trainings() {
                             <span>Web Design</span>
                         </div>
                         <div className="project-buttons">
-                            <a href="https://drive.google.com/file/d/1ewvCeG4Sa-7-VK9JcDKL93SVYlSOsd0X/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"><FaExternalLinkAlt /> View Certificate</a>
+                            <a href="https://drive.google.com/file/d/1kXq2kyFZbmAlfFBbVEDsKSKiUwI8pJqX/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"><FaExternalLinkAlt /> View Certificate</a>
                             <a href="/CERTIFICATE 2.jpg" download><FaDownload /> Download</a>
                         </div>
                     </div>
@@ -50,7 +50,7 @@ function Trainings() {
                             <span>Team Work</span>
                         </div>
                         <div className="project-buttons">
-                            <a href="https://drive.google.com/file/d/1M9DJ9t3_iP_jFPXFQDQDw4La6wNse9fS/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"><FaExternalLinkAlt /> View Certificate</a>
+                            <a href="https://drive.google.com/file/d/1KqK-HnX7k216hEBtG16tyneC4jIcC2Fw/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"><FaExternalLinkAlt /> View Certificate</a>
                             <a href="/CERTIFICATE 3.jpg" download><FaDownload /> Download</a>
                         </div>
                     </div>
@@ -65,7 +65,7 @@ function Trainings() {
                             <span>Java</span>
                         </div>
                         <div className="project-buttons">
-                            <a href="https://drive.google.com/file/d/1TuDLNcybJpuAdNdMDc6hPkJtDgNozkWn/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"><FaExternalLinkAlt /> View Certificate</a>
+                            <a href="https://drive.google.com/file/d/1n6CsvjiwE4k-hRtK7m7KNEv7cJJJrE1s/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"><FaExternalLinkAlt /> View Certificate</a>
                             <a href="/CERTIFICATE 4.jpg" download><FaDownload /> Download</a>
                         </div>
                     </div>
