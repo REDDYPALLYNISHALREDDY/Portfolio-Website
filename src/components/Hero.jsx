@@ -54,21 +54,21 @@ function Hero() {
 
                     <div className="hero-buttons">
                         <a
-                            href="/RESUME 3 (PHOTO).pdf"
+                            href="/NISHAL's RESUME 1 (PHOTO).pdf"
                             download
                             className="button-primary"
                         > 
                             <FiDownload className="btn-icon" />
-                             Resume1
+                             Nishal's Resume1
                         </a>
 
                         <a
-                            href="/RESUME 4 (NO PHOTO).pdf"
+                            href="/NISHAL's RESUME.pdf"
                             download
                             className="button-primary"
                         >
                             <FiDownload className="btn-icon" />
-                             Resume2
+                             Nishal's Resume2
                         </a>
 
                         <a
