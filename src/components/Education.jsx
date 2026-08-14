@@ -14,17 +14,7 @@ function Education() {
                             <p>Malla Reddy College of Engineering & Technology</p>
                             <p className="edu-sub">Hyderabad, Telangana</p>
                             <p className="edu-sub">2023 - Present</p>
-                            <span className="highlight">CGPA: 8.78</span>
-                            <p className="edu-note">
-                                Strong foundation in Data Structures, DBMS and System Design.
-                            </p>
-                            <div className="course-tags">
-                                <span>Data Structures</span>
-                                <span>DBMS</span>
-                                <span>Operating Systems</span>
-                                <span>Computer Networks</span>
-                                <span>OOPS</span>
-                            </div>
+                            <span className="highlight">CGPA: 8.73</span>
                         </div>
                     </div>
 

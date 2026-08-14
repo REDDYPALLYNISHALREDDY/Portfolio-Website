@@ -16,31 +16,38 @@ function Skills() {
                         </div>
 
                         <div className="glass skill-card">
-                            <h3>Web Development</h3>
+                            <h3>Frontend</h3>
                             <p>HTML</p>
                             <p>CSS</p>
                             <p>JavaScript</p>
                             <p>React</p>
-                            <p>Node.js (Express)</p>
+                        </div>
+
+                        <div className="glass skill-card">
+                            <h3>Backend</h3>
+                            <p>Node.js</p>
+                            <p>Express.js</p>
+                            <p>Spring Boot</p>
                         </div>
 
                         <div className="glass skill-card">
                             <h3>Databases</h3>
-                            <p>SQL (MySQL)</p>
+                            <p>MySQL</p>
                             <p>MongoDB</p>
                         </div>
 
                         <div className="glass skill-card">
-                            <h3>Tools</h3>
+                            <h3>Development Tools</h3>
                             <p>Git</p>
                             <p>GitHub</p>
                             <p>VS Code</p>
+                            <p>Postman</p>
                         </div>
 
                         <div className="glass skill-card">
                             <h3>Core Competencies</h3>
-                            <p>Data Structures & Algorithms</p>
-                            <p>OOP</p>
+                            <p>Data Structures and Algorithms</p>
+                            <p>Object Oriented Programming</p>
                             <p>Problem Solving</p>
                             <p>Logical Thinking</p>
                         </div>
@@ -49,6 +56,8 @@ function Skills() {
                             <h3>Core Subjects</h3>
                             <p>Operating Systems</p>
                             <p>Computer Networks</p>
+                            <p>Software Engineering</p>
+                            <p>Database Management Systems</p>
                         </div>
                     </div>
                 </div>

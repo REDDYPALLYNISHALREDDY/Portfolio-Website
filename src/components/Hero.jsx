@@ -7,7 +7,9 @@ function Hero() {
 
     const roles = [
         "Aspiring Software Developer",
+        "Web Developer",
         "Java Developer",
+        "Android Developer",
         "MERN Stack Enthusiast",
         "Problem Solver",
         "Tech Explorer"
@@ -18,9 +20,9 @@ function Hero() {
     const [charIndex, setCharIndex] = useState(0);
 
     useEffect(() => {
-        const  typingSpeed = 80;
+        const  typingSpeed = 60;
         const deletingSpeed = 40;
-        const delayBetweenRoles = 1500;
+        const delayBetweenRoles = 2000;
 
         let timeout;
 
@@ -59,7 +61,7 @@ function Hero() {
                             className="button-primary"
                         > 
                             <FiDownload className="btn-icon" />
-                             Nishal's Resume1
+                            RESUME 1
                         </a>
 
                         <a
@@ -68,7 +70,7 @@ function Hero() {
                             className="button-primary"
                         >
                             <FiDownload className="btn-icon" />
-                             Nishal's Resume2
+                            RESUME 2
                         </a>
 
                         <a
@@ -76,7 +78,7 @@ function Hero() {
                             target="_blank"
                             className="button-primary"
                         > <FaGithub className="btn-icon" />
-                            GitHub
+                            GITHUB
                         </a>
 
                         <a
@@ -84,19 +86,28 @@ function Hero() {
                             target="_blank"
                             className="button-primary"
                         > <FaLinkedin className="btn-icon" />
-                            LinkedIn
+                            LINKEDIN
                         </a>
                     </div>
                     <p className="hero-statement">
-                            Crafting scalable web applications with clean architecture and real-world impact.<br/>
-                            Focused on building efficient backend systems and responsive user interfaces.<br/>
-                            Passionate about solving real-world problems through optimized solutions. <br/>
-                            Continuously learning and improving to build reliable and high-performance applications.
-                        
+                        — Full-Stack Developer focused on building scalable, secure, and high-performance web applications 
+                        using the MERN stack. 
+                    </p>
+                    <p className="hero-statement">
+                        — Experienced in developing RESTful APIs, authentication systems, real-time applications, and 
+                        responsive user interfaces with a strong focus on clean architecture and maintainable code.
+                    </p>
+                    <p className="hero-statement">
+                        — Proven ability to turn real-world requirements into practical, production-ready solutions 
+                        while continuously improving performance, reliability, and user experience.
+                    </p>
+                    <p className="hero-statement">
+                        — Passionate about solving complex problems, learning modern technologies, and 
+                        building software that creates meaningful impact.
                     </p>
                     <div className="hero-stats">
-                        <div className="stat-card">2+ Projects</div>
-                        <div className="stat-card">8.78 CGPA</div>
+                        <div className="stat-card">3+ Projects</div>
+                        <div className="stat-card">8.73 CGPA</div>
                         <div className="stat-card">MERN Stack</div>
                         <div className="stat-card">Quick Learner</div>
                     </div>
@@ -104,7 +115,7 @@ function Hero() {
 
                 <div className="hero-right">
                     <div className="photo-wrapper">
-                        <img src="IMAGE 1.jpeg"  className="hero-img" />
+                        <img src="NISHAL's PHOTO.jpg"  className="hero-img" />
                     </div>
                 </div>
             </div>
