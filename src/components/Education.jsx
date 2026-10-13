@@ -13,7 +13,7 @@ function Education() {
                             <h2>B.Tech - Computer Science & Engineering</h2>
                             <p>Malla Reddy College of Engineering & Technology</p>
                             <p className="edu-sub">Hyderabad, Telangana</p>
-                            <p className="edu-sub">2023 - Present</p>
+                            <p className="edu-sub">2023 - 2027</p>
                             <span className="highlight">CGPA: 8.73</span>
                         </div>
                     </div>
@@ -32,10 +32,10 @@ function Education() {
                     <div className="timeline-item">
                         <div className="timeline-dot"></div>
                         <div className="glass timeline-content">
-                            <h2>SSC (Class X)</h2>
-                            <p>Celestial High School</p>
+                            <h2>Secondary School Certificate (SSC)</h2>
+                            <p>Board of Secondary Education</p>
                             <p className="edu-sub">Siddipet, Telangana</p>
-                            <p className="edu-sub">2020</p>
+                            <p className="edu-sub">2020 - 2021</p>
                             <span className="highlight">CGPA: 10.0</span>
                         </div>
                     </div>

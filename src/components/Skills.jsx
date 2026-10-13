@@ -13,6 +13,8 @@ function Skills() {
                             <p>C</p>
                             <p>Java</p>
                             <p>Python</p>
+                            <p>JavaScript</p>
+                            <p>TypeScript</p>
                         </div>
 
                         <div className="glass skill-card">
@@ -20,6 +22,7 @@ function Skills() {
                             <p>HTML</p>
                             <p>CSS</p>
                             <p>JavaScript</p>
+                            <p>TypeScript</p>
                             <p>React</p>
                         </div>
 
@@ -28,12 +31,34 @@ function Skills() {
                             <p>Node.js</p>
                             <p>Express.js</p>
                             <p>Spring Boot</p>
+                            <p>FastAPI</p>
+                            <p>REST API's</p>
+                            <p>JWT Authentication</p>
                         </div>
 
                         <div className="glass skill-card">
                             <h3>Databases</h3>
                             <p>MySQL</p>
+                            <p>PostgreSQL</p>
                             <p>MongoDB</p>
+                            <p>Qdrant (Vector Database)</p>
+                        </div>
+
+                        <div className="glass skill-card">
+                            <h3>AI & ML</h3>
+                            <p>RAG (Retrieval Augmented Generation)</p>
+                            <p>LangChain</p>
+                            <p>Hugging Face</p>
+                            <p>scikit-learn</p>
+                            <p>Sentence Transformers</p>
+                        </div>
+
+                        <div className="glass skill-card">
+                            <h3>DevOps &  Cloud</h3>
+                            <p>Docker</p>
+                            <p>GitHub Actions (CI/CD)</p>
+                            <p>Linux</p>
+                            <p>Nginx (AWS EC2/S3)</p>
                         </div>
 
                         <div className="glass skill-card">
@@ -42,6 +67,9 @@ function Skills() {
                             <p>GitHub</p>
                             <p>VS Code</p>
                             <p>Postman</p>
+                            <p>Swagger</p>
+                            <p>Jest</p>
+                            <p>PyTest</p>
                         </div>
 
                         <div className="glass skill-card">
@@ -58,6 +86,7 @@ function Skills() {
                             <p>Computer Networks</p>
                             <p>Software Engineering</p>
                             <p>Database Management Systems</p>
+                            <p>Artificial Intelligence & Machine Learning</p>
                         </div>
                     </div>
                 </div>
