@@ -8,7 +8,38 @@ function Projects() {
                     <h1 className="section-title">PROJECTS</h1>
 
                     <div className="glass project-card">
-                        <h2 className="project-title">COLLABX - Project & Team Managment Platform</h2>
+                        <h2 className="project-title">AI-Powered Government Welfare Scheme Assistant</h2>
+
+                        <p className="project-description">
+                            Developed a full-stack AI-powered platform that simplifies government welfare scheme discovery by 
+                            providing personalized recommendations based on user needs and eligibility criteria.
+                        </p>
+                        <p className="project-description">
+                            Implemented a Retrieval-Augmented Generation (RAG) pipeline using Qdrant, 
+                            Sentence Transformers and a locally hosted LLM to deliver context-aware answers grounded in scheme records and uploaded documents.
+                        </p>
+                        <p className="project-description">
+                            Engineered RESTful APIs with FastAPI and PostgreSQL, integrating JWT authentication, role-based access control, 
+                            document management and multilingual assistance.
+                        </p>
+
+                        <div className="tech-stack">
+                            <span>React</span>
+                            <span>TypeScript</span>
+                            <span>Python</span>
+                            <span>FastAPI</span>
+                            <span>PostgreSQL</span>
+                            <span>Qdrant</span>
+                            <span>LangChain</span>
+                            <span>Hugging Face</span>
+                        </div>
+                        <div className="project-buttons">
+                            <a href="https://github.com/REDDYPALLYNISHALREDDY/CIVINEX---Government-Welfare-Scheme-Assistant.git" target="_blank">GitHub</a>
+                        </div>
+                    </div>
+
+                    <div className="glass project-card">
+                        <h2 className="project-title">Smart Project & Team Managment System</h2>
 
                         <p className="project-description">
                             Developed a full-stack MERN Project and Team Management Platform with secure JWT authentication,
@@ -28,6 +59,7 @@ function Projects() {
                             <span>Node.js</span>
                             <span>Express.js</span>
                             <span>MongoDB</span>
+                            <span>REST API's</span>
                         </div>
                         <div className="project-buttons">
                             <a href="https://github.com/REDDYPALLYNISHALREDDY/smart-project-management.git" target="_blank">GitHub</a>
@@ -36,7 +68,7 @@ function Projects() {
                     </div>
 
                     <div className="glass project-card">
-                        <h2 className="project-title">NEXORA - Full Stack E-Commerce Platform</h2>
+                        <h2 className="project-title">Full Stack E-Commerce Platform</h2>
 
                         <p className="project-description">
                             Developed a full-stack MERN E-Commerce Platform with secure JWT authentication, role-based access
@@ -56,6 +88,8 @@ function Projects() {
                             <span>Node.js</span>
                             <span>Express.js</span>
                             <span>MongoDB</span>
+                            <span>JWT</span>
+                            <span>REST API's</span>
                         </div>
                         <div className="project-buttons">
                             <a href="https://github.com/REDDYPALLYNISHALREDDY/E-Commerce-Platform.git" target="_blank">GitHub</a>
@@ -64,7 +98,7 @@ function Projects() {
                     </div>
 
                     <div className="glass project-card">
-                        <h2 className="project-title">ORVEN - Real Time Chat Application</h2>
+                        <h2 className="project-title">Real Time Chat Application</h2>
 
                         <p className="project-description">
                             Developed a full-stack real-time chat application with secure JWT authentication, 
@@ -83,6 +117,7 @@ function Projects() {
                             <span>React</span>
                             <span>Spring Boot</span>
                             <span>MySQL</span>
+                            <span>Socket API</span>
                         </div>
                         <div className="project-buttons">
                             <a href="https://github.com/REDDYPALLYNISHALREDDY/SYNORA-FRONTEND.git" target="_blank">GitHub</a>
